@@ -28,4 +28,6 @@ node .
 
 临时硬撸的，没注释，没设计，耦合遍地，看代码应该会越看越生气
 
-能正常运行真是一个奇迹！
+能正常运行确实是一个奇迹
+
+![image](https://user-images.githubusercontent.com/53897259/113479138-d057a000-94bf-11eb-93be-c3ec6bdeebff.png)
